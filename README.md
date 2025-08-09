@@ -23,6 +23,15 @@ You can clone this repository or download specific resources to deepen your unde
 ## Contributing
 If you wish to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## Testing
+This repository includes automated link checking to ensure all documentation links remain valid. To test the link checker functionality, run:
+
+```bash
+./test-link-checker.sh
+```
+
+For more detailed testing information, see [TESTING.md](TESTING.md).
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
